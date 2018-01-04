@@ -1,0 +1,14 @@
+{
+  "name": "getcourse_bot",
+  "version": "1.0.0",
+  "main": "s.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stekolschikov <v.a.stekolschikov@gmail.com> (stekolschikovv.hithub.io)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nightmare": "latest"
+  }
+}
